@@ -1,0 +1,5 @@
+startstep=1
+maxstep=30
+popsize=20
+threshold=12
+command=mpirun -np 80 vasp_gam
